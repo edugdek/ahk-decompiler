@@ -1,0 +1,1 @@
+Este projeto é um decompilador para arquivos de script do AutoHotkey. Ele permite que você converta arquivos compilados (.exe) de volta para o código-fonte original (.ahk). Este projeto é útil para aqueles que desejam editar ou estudar scripts compilados, sem ter acesso ao código-fonte original. Ele também pode ser usado para recuperar scripts perdidos ou corrompidos.
